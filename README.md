@@ -1,6 +1,6 @@
 # Baza-De-Date-Angajati
 Python
-Proiect Python cu urmatoarele cerinte
+Proiect Python cu urmatoarele cerinte:
 
 1. Realizati o aplicatie in Python pentru gestiunea angajatilor intr-o
 firma. Aplicatia va avea o conexiune la o baza de date pentru a
